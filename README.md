@@ -1,3 +1,3 @@
 # Matlab_Simulation
-Simulation of wave propagation using finite differencies 
+Simulation of wave propagation & Heat diffusion, using finite differencies 
 code Matlab 
